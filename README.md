@@ -33,6 +33,7 @@
 
 **Bằng việc sử dụng phần mềm, thư viện, công cụ được cấp theo Giấy phép này, bạn đồng ý với các điều khoản sau:**
 
+![Quyền sở hữu](https://img.shields.io/badge/Quyền-0000ff)
   **Quyền sở hữu**
  - Mọi quyền sở hữu trí tuệ của Sản phẩm thuộc về chủ sở hữu cấp phép trừ khi có thoả thuận khác bằng văn bản.
 
