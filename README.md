@@ -1,6 +1,5 @@
 <h1 align="center" style="color:#4A12BA; font-size: 3rem; font-family: 'JetBrains Mono', monospace; text-shadow: 2px 2px 10px rgba(74,18,186,0.7);">WhiteNN ᕁ Zu</h1>
 
-<img src=""/>
 ## Info Me 
  - WhiteNN ᕁ Zu
 
