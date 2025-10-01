@@ -1,7 +1,17 @@
 <h1 align="center" style="color:#4A12BA; font-size: 3rem; font-family: 'JetBrains Mono', monospace; text-shadow: 2px 2px 10px rgba(74,18,186,0.7);">WhiteNN ᕁ Zu</h1>
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=cyan)
+
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhtNnU1d3hyNWoycjlscTVhZmQyaGV4ZjRjZ2Q1MXFrZ3k1dWY3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="200"/>
 </p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+<p align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="200"/>
+</p>
+
 
 ## Info Me 
  - WhiteNN ᕁ Zu
@@ -10,19 +20,6 @@
   <img src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="200"/>
-</p>
-
-
-
-## Thông Thạo
-
-![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=cyan)
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-<p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="200"/>
 </p>
 
 ## Giới thiệu
