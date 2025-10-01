@@ -1,6 +1,7 @@
 <h1 align="center" style="color:#4A12BA; font-size: 3rem; font-family: 'JetBrains Mono', monospace; text-shadow: 2px 2px 10px rgba(74,18,186,0.7);">WhiteNN ᕁ Zu</h1>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhtNnU1d3hyNWoycjlscTVhZmQyaGV4ZjRjZ2Q1MXFrZ3k1dWY3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" align="center" width="200"/>
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhtNnU1d3hyNWoycjlscTVhZmQyaGV4ZjRjZ2Q1MXFrZ3k1dWY3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="200"/>
+</p>
 
 ## Info Me 
  - WhiteNN ᕁ Zu
