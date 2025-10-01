@@ -78,3 +78,8 @@
 ![](https://img.shields.io/badge/Luật_áp_dụng-0000ff)
 
  - Giấy phép này được điều chỉnh bởi pháp luật hiện hành của quốc gia nơi chủ sở hữu đặt trụ sở. Mọi tranh chấp sẽ được giải quyết theo pháp luật đó.
+
+## Giải trí
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWRneDJqb2g4N2t4dmtoeGl2MWc0bzRnbHJuZG4xdWp0ZHFtNmJ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efuh1hLg1H438esuwG/giphy.gif"/>
+
