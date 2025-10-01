@@ -1,6 +1,13 @@
 ## Info Me 
  - WhiteNN ᕁ Zu
-<img src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="200"/>
+</p>
+
+
 
 ## Thông Thạo
 
@@ -14,9 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="300"/>
+
 ## Test
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="200"/>
-</p>
