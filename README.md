@@ -1,6 +1,8 @@
 ## Info Me 
  - WhiteNN 
  - Zu
+<img src="[https://link-to-your-gif.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBhZmUxOXZxbGZlMDlheGJnZHllazg2NHBrcGFxajBvcGl6cnI1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="200"/>
+
 ## Thông Thạo
 
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
