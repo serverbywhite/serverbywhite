@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=cyan)
+  ![Language: Python](https://img.shields.io/badge/License-Pyzuma-63f8ff?style=for-the-badge&labelColor=d3d3d3)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 <p align="center">
