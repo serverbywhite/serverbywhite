@@ -1,12 +1,6 @@
 <h1 align="center" style="color:#4A12BA; font-size: 3rem; font-family: 'JetBrains Mono', monospace; text-shadow: 2px 2px 10px rgba(74,18,186,0.7);">WhiteNN ᕁ Zu</h1>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=serverbywhite&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/serverbywhite?color=4a12ba&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/serverbywhite?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-</p>
-
+<img src=""/>
 ## Info Me 
  - WhiteNN ᕁ Zu
 
@@ -77,5 +71,7 @@
 
 ## Giải trí
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWRneDJqb2g4N2t4dmtoeGl2MWc0bzRnbHJuZG4xdWp0ZHFtNmJ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efuh1hLg1H438esuwG/giphy.gif"/>
-
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmNueXJlMDFzcGtpNWoyOWlmbjhvdW1rMXdnY3g3cTI4NXE5MTJuayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WD01fV9KSg4Vw3DYWc/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWRneDJqb2g4N2t4dmtoeGl2MWc0bzRnbHJuZG4xdWp0ZHFtNmJ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efuh1hLg1H438esuwG/giphy.gif" width="200"/>
+</p>
