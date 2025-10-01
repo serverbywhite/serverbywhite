@@ -38,6 +38,8 @@
 
 ![](https://img.shields.io/badge/Quyền_Sở_Hữu-0000ff)
 
+ - Giữ nguyên tên bản quyền không thay đổi
+
  - Mọi quyền sở hữu trí tuệ của Sản phẩm thuộc về chủ sở hữu cấp phép trừ khi có thoả thuận khác bằng văn bản.
 
 ![](https://img.shields.io/badge/Cấm_sao_chép_và_chỉnh_sửa-0000ff)
