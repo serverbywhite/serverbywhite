@@ -1,5 +1,7 @@
 <h1 align="center" style="color:#4A12BA; font-size: 3rem; font-family: 'JetBrains Mono', monospace; text-shadow: 2px 2px 10px rgba(74,18,186,0.7);">WhiteNN ᕁ Zu</h1>
 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWRneDJqb2g4N2t4dmtoeGl2MWc0bzRnbHJuZG4xdWp0ZHFtNmJ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/giphy.gif" width="200"/>
+
 ## Info Me 
  - WhiteNN ᕁ Zu
 
