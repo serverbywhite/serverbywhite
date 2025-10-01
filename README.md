@@ -1,7 +1,8 @@
 ## Info Me 
  - WhiteNN 
  - Zu
-<img src="[https://link-to-your-gif.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBhZmUxOXZxbGZlMDlheGJnZHllazg2NHBrcGFxajBvcGl6cnI1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="200"/>
+<img src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+
 
 ## Thông Thạo
 
