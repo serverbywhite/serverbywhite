@@ -2,10 +2,6 @@
 
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=cyan)
 
-<p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhtNnU1d3hyNWoycjlscTVhZmQyaGV4ZjRjZ2Q1MXFrZ3k1dWY3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="200"/>
-</p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
