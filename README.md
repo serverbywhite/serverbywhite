@@ -1,9 +1,5 @@
 <h1 align="center" style="color:#4A12BA; font-size: 3rem; font-family: 'JetBrains Mono', monospace; text-shadow: 2px 2px 10px rgba(74,18,186,0.7);">WhiteNN ᕁ Zu</h1>
-<p align="center">
-    <a href="https://github.com/serverbywhite">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&pause=1000&color=4A12BA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Open-Source+Enthusiast;Building+cool+stuff+with+code" alt="Typing SVG" />
-    </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=serverbywhite&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
