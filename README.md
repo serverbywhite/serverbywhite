@@ -29,7 +29,7 @@
 
 
 ## Giấy phép PyZuma
-![License: Pyzuma](https://img.shields.io/badge/License-Pyzuma-ff1493?style=for-the-badge&labelColor=0000ff)
+![License: Pyzuma](https://img.shields.io/badge/License-Pyzuma-ff1493?style=for-the-badge&labelColor=d3d3d3)
 
 **Bằng việc sử dụng phần mềm, thư viện, công cụ được cấp theo Giấy phép này, bạn đồng ý với các điều khoản sau:**
 
@@ -37,13 +37,16 @@
 
  - Mọi quyền sở hữu trí tuệ của Sản phẩm thuộc về chủ sở hữu cấp phép trừ khi có thoả thuận khác bằng văn bản.
 
-  **Cấm sao chép và chỉnh sửa**
+![](https://img.shields.io/badge/Cấm_sao_chép_và_chỉnh_sửa-0000ff)
+
  - Người nhận bị nghiêm cấm sao chép, tái phân phối, chỉnh sửa, dịch ngược (reverse-engineer) hoặc tạo sản phẩm dẫn xuất từ mã nguồn của công cụ dưới mọi hình thức trừ khi có sự cho phép bằng văn bản của chủ sở hữu.
 
-  **Cho phép trỏ link tới server**
+![](https://img.shields.io/badge/Cho_phép_requests_tới_link-0000ff)
+
  - Người nhận được phép trỏ đường dẫn (link) tới server do chủ sở hữu chỉ định để tải, khởi chạy hoặc truy cập công cụ ở dạng dịch vụ/remote tool. Việc trỏ link không được kèm theo hành vi sao chép hay lưu trữ mã nguồn trên hệ thống bên thứ ba nếu không có phép rõ ràng.
 
-  **Cấm sử dụng sai trái**
+![](https://img.shields.io/badge/Cấm_sử_dung_sai_trái-0000ff)
+
  - Công cụ không được sử dụng cho các hoạt động bất hợp pháp, gây hại hoặc xâm phạm quyền của bên thứ ba. Điều này bao gồm nhưng không giới hạn ở: tấn công mạng, phân phối phần mềm độc hại, gian lận, xâm phạm dữ liệu cá nhân, hoặc hỗ trợ các hành vi vi phạm pháp luật. Chủ sở hữu có quyền thu hồi quyền sử dụng nếu phát hiện sử dụng sai mục đích.
 
   **Miễn trừ và giới hạn trách nhiệm**
