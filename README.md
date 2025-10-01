@@ -27,7 +27,7 @@
 </p>
 
 ## Giới thiệu
- - Xin chào, mình là WhiteNN – thành viên nhóm PyMaKaizu.
+ - Xin chào, mình là **WhiteNN** – thành viên nhóm **PyMaKaizu**.
  - Chuyên lập trình script obf với enc để code của bạn “khó hiểu như crush nhắn tin cụt ngủn”.
  - Đam mê: bảo vệ mã nguồn, biến code thành mê cung để ai muốn đọc thì chuẩn bị tinh thần đi lạc vài ngày.
  - Motto: “Code thì ai cũng viết, nhưng để người khác không hiểu thì để tôi lo!”
