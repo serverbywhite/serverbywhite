@@ -29,8 +29,7 @@
 
 
 ## Giấy phép PyZuma
-![License: Pyzuma](https://img.shields.io/badge/License-Pyzuma-white?style=for-the-badge&labelColor=black&color=purple)
-
+![License: Pyzuma](https://img.shields.io/badge/License-Pyzuma?style=for-the-badge&labelColor=00f5ff&color=ff1493)
 ![License: pyzuma](https://img.shields.io/badge/license-pyzuma-blueviolet?style=for-the-badge)
 
 Bằng việc sử dụng phần mềm, thư viện, công cụ được cấp theo Giấy phép này, bạn đồng ý với các điều khoản sau:
