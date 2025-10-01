@@ -29,6 +29,7 @@
 
 
 ## Giấy phép PyZuma
+**Giấy phép này được xuất từ *PyMaKaizu* áp dụng cho các công cụ được chia sẻ**
 ![License: Pyzuma](https://img.shields.io/badge/License-Pyzuma-ff1493?style=for-the-badge&labelColor=d3d3d3)
 
 **Bằng việc sử dụng phần mềm, thư viện, công cụ được cấp theo Giấy phép này, bạn đồng ý với các điều khoản sau:**
