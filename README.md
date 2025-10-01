@@ -49,11 +49,14 @@
 
  - Công cụ không được sử dụng cho các hoạt động bất hợp pháp, gây hại hoặc xâm phạm quyền của bên thứ ba. Điều này bao gồm nhưng không giới hạn ở: tấn công mạng, phân phối phần mềm độc hại, gian lận, xâm phạm dữ liệu cá nhân, hoặc hỗ trợ các hành vi vi phạm pháp luật. Chủ sở hữu có quyền thu hồi quyền sử dụng nếu phát hiện sử dụng sai mục đích.
 
-  **Miễn trừ và giới hạn trách nhiệm**
+![](https://img.shields.io/badge/Miễn_trừ_và_giới_hạn_trách_nhiệm-0000ff)
+
  - Sản phẩm được cấp theo dạng “nguyên trạng”. Chủ sở hữu không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên hoặc hệ quả phát sinh từ việc sử dụng hoặc không thể sử dụng công cụ.
 
-  **Chấm dứt**
+![](https://img.shields.io/badge/Chấm_dứt-0000ff)
+
  - Mọi quyền theo Giấy phép này sẽ chấm dứt tự động nếu người nhận vi phạm bất kỳ điều khoản nào. Sau khi chấm dứt, người nhận phải ngừng mọi truy cập và ngừng trỏ link tới server để lấy công cụ nếu chủ sở hữu yêu cầu.
 
-  **Luật áp dụng**
+![](https://img.shields.io/badge/Luật_áp_dụng-0000ff)
+
  - Giấy phép này được điều chỉnh bởi pháp luật hiện hành của quốc gia nơi chủ sở hữu đặt trụ sở. Mọi tranh chấp sẽ được giải quyết theo pháp luật đó.
