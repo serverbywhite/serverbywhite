@@ -1,6 +1,5 @@
 ## Info Me 
- - WhiteNN 
- - Zu
+ - WhiteNN ᕁ Zu
 <img src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
 
 
