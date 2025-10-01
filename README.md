@@ -11,7 +11,7 @@
 
 ## Thông Thạo
 
-![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=cyan)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
