@@ -29,6 +29,7 @@
 
 
 ## Giấy phép PyZuma
+![License: pyzuma](https://img.shields.io/badge/license-pyzuma-blueviolet?style=for-the-badge)
 
 Bằng việc sử dụng phần mềm, thư viện, công cụ được cấp theo Giấy phép này, bạn đồng ý với các điều khoản sau:
 
