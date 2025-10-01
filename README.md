@@ -30,12 +30,11 @@
 
 ## Giấy phép PyZuma
 ![License: Pyzuma](https://img.shields.io/badge/License-Pyzuma?style=for-the-badge&labelColor=00f5ff&color=ff1493)
-![License: pyzuma](https://img.shields.io/badge/license-pyzuma-blueviolet?style=for-the-badge)
 
 Bằng việc sử dụng phần mềm, thư viện, công cụ được cấp theo Giấy phép này, bạn đồng ý với các điều khoản sau:
 
- - Quyền sở hữu
-Mọi quyền sở hữu trí tuệ của Sản phẩm thuộc về chủ sở hữu cấp phép trừ khi có thoả thuận khác bằng văn bản.
+  **Quyền sở hữu**
+- Mọi quyền sở hữu trí tuệ của Sản phẩm thuộc về chủ sở hữu cấp phép trừ khi có thoả thuận khác bằng văn bản.
 
  - Cấm sao chép và chỉnh sửa
 Người nhận bị nghiêm cấm sao chép, tái phân phối, chỉnh sửa, dịch ngược (reverse-engineer) hoặc tạo sản phẩm dẫn xuất từ mã nguồn của công cụ dưới mọi hình thức trừ khi có sự cho phép bằng văn bản của chủ sở hữu.
