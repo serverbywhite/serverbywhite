@@ -45,11 +45,11 @@
 
  - Giữ nguyên tên bản quyền không thay đổi
 
- - Mọi quyền sở hữu trí tuệ của Sản phẩm thuộc về chủ sở hữu cấp phép trừ khi có thoả thuận khác bằng văn bản.
+ - Mọi quyền sở hữu trí tuệ của công cụ thuộc về chủ sở hữu cấp phép trừ khi có thoả thuận khác bằng văn bản.
 
 ![](https://img.shields.io/badge/Cấm_sao_chép_và_chỉnh_sửa-0000ff)
 
- - Người nhận bị nghiêm cấm sao chép, tái phân phối, chỉnh sửa, dịch ngược (reverse-engineer) hoặc tạo sản phẩm dẫn xuất từ mã nguồn của công cụ dưới mọi hình thức trừ khi có sự cho phép bằng văn bản của chủ sở hữu.
+ - Người nhận bị nghiêm cấm sao chép, tái phân phối, chỉnh sửa, dịch ngược (reverse-engineer) hoặc tạo công cụ dẫn xuất từ mã nguồn của công cụ dưới mọi hình thức trừ khi có sự cho phép bằng văn bản của chủ sở hữu.
 
 ![](https://img.shields.io/badge/Cho_phép_requests_tới_link-0000ff)
 
