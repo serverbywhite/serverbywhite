@@ -1,6 +1,7 @@
 <h1 align="center" style="color:#4A12BA; font-size: 3rem; font-family: 'JetBrains Mono', monospace; text-shadow: 2px 2px 10px rgba(74,18,186,0.7);">WhiteNN ᕁ Zu</h1>
 
 <p align="center">
+  
   ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=cyan)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
