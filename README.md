@@ -21,6 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="300"/>
- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif" width="200"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="200"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlycHZ5OXh1c2hmZm1zcXVocDQzMHg3am9tYWZpaWhtOXAwandxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif" width="300"/>
 </p>
