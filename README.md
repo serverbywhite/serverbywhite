@@ -24,7 +24,7 @@
  - Chuyên lập trình script obf với enc để code của bạn “khó hiểu như crush nhắn tin cụt ngủn”.
  - Đam mê: bảo vệ mã nguồn, biến code thành mê cung để ai muốn đọc thì chuẩn bị tinh thần đi lạc vài ngày.
  - Motto: “Code thì ai cũng viết, nhưng để người khác không hiểu thì để tôi lo!”
-
+ - Tao viết cả trăm cái mã hóa ao trình từ lâu rồi tao còn đéo thèm up
 
 ## Giấy phép PyZuma
 
