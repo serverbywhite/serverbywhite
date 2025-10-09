@@ -1,5 +1,7 @@
 <h1 align="center" style="color:#4A12BA; font-size: 3rem; font-family: 'JetBrains Mono', monospace; text-shadow: 2px 2px 10px rgba(74,18,186,0.7);">WhiteNN ᕁ Zu ᕁ JunidoKai ᕁ MinhAnhs</h1>
 
+<h3 align="center">Tao viết cả trăm cái mã hóa ao trình từ lâu rồi tao còn đéo thèm up</h3>
+
 <p align="center">
   
   ![Language: Python](https://img.shields.io/badge/Language-Python-ffb90f?style=for-the-badge&labelColor=1874cd)
@@ -22,7 +24,6 @@
 ## Giới thiệu
  - Xin chào, mình là **WhiteNN** – thành viên nhóm **PyMaKaizu**.
  - Chuyên lập trình script obf với enc để code của bạn “khó hiểu như crush nhắn tin cụt ngủn”.
- - Đam mê: bảo vệ mã nguồn, biến code thành mê cung để ai muốn đọc thì chuẩn bị tinh thần đi lạc vài ngày.
  - Motto: “Code thì ai cũng viết, nhưng để người khác không hiểu thì để tôi lo!”
  - Tao viết cả trăm cái mã hóa ao trình từ lâu rồi tao còn đéo thèm up
 
