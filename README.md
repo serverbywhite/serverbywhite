@@ -22,50 +22,27 @@
 </p>
 
 ## Giới thiệu
+
  - Xin chào, mình là **WhiteNN** – thành viên nhóm **PyMaKaizu**.
  - Chuyên lập trình script obf với enc để code của bạn “khó hiểu như crush nhắn tin cụt ngủn”.
  - Motto: “Code thì ai cũng viết, nhưng để người khác không hiểu thì để tôi lo!”
- - Tao viết cả trăm cái mã hóa ao trình từ lâu rồi tao còn đéo thèm up
+ - Tao viết cả trăm cái mã hóa ao trình từ lâu rồi tao còn đéo thèm up.
 
-## Giấy phép PyZuma
+## Mã Hóa
+
+![](https://img.shields.io/badge/Các_Công_Cụ-0000ff)
+
+ - 𝙋𝙮𝙈𝙖𝙆𝙖𝙞𝙯𝙪: Phiên bản đầu tiên và mạnh nhất chính vì quá mạnh lên dễ bị lạm dụng đã ngừng phát hành. 
+
+ - 𝙋𝙮𝙎𝙝𝙖𝘿𝙤𝙬: Phiên bản thứ hai bị dừng không công bố lí do.
+
+ - 𝙋𝙮𝙑𝙖𝙧𝙇𝙞𝙜𝙝𝙩: Đang trong thời gian đại tu.
+
+##
 
 ![License: Pyzuma](https://img.shields.io/badge/License-Pyzuma-ff1493?style=for-the-badge&labelColor=d3d3d3)
 
-**Giấy phép này được xuất từ *PyMaKaizu* áp dụng cho các công cụ được chia sẻ**
-
-**Bằng việc sử dụng phần mềm, thư viện, công cụ được cấp theo Giấy phép này, bạn đồng ý với các điều khoản sau:**
-
-![](https://img.shields.io/badge/Quyền_Sở_Hữu-0000ff)
-
- - Giữ nguyên tên bản quyền không thay đổi
-
- - Mọi quyền sở hữu trí tuệ của công cụ thuộc về chủ sở hữu cấp phép trừ khi có thoả thuận khác bằng văn bản.
-
-![](https://img.shields.io/badge/Cấm_sao_chép_và_chỉnh_sửa-0000ff)
-
- - Người nhận bị nghiêm cấm sao chép, tái phân phối, chỉnh sửa, dịch ngược (reverse-engineer) hoặc tạo công cụ dẫn xuất từ mã nguồn của công cụ dưới mọi hình thức trừ khi có sự cho phép bằng văn bản của chủ sở hữu.
-
-![](https://img.shields.io/badge/Cho_phép_requests_tới_link-0000ff)
-
- - Người nhận được phép trỏ đường dẫn (link) tới server do chủ sở hữu chỉ định để tải, khởi chạy hoặc truy cập công cụ ở dạng dịch vụ/remote tool. Việc trỏ link không được kèm theo hành vi sao chép hay lưu trữ mã nguồn trên hệ thống bên thứ ba nếu không có phép rõ ràng.
-
-![](https://img.shields.io/badge/Cấm_sử_dung_sai_trái-0000ff)
-
- - Công cụ không được sử dụng cho các hoạt động bất hợp pháp, gây hại hoặc xâm phạm quyền của bên thứ ba. Điều này bao gồm nhưng không giới hạn ở: tấn công mạng, phân phối phần mềm độc hại, gian lận, xâm phạm dữ liệu cá nhân, hoặc hỗ trợ các hành vi vi phạm pháp luật. Chủ sở hữu có quyền thu hồi quyền sử dụng nếu phát hiện sử dụng sai mục đích.
-
-![](https://img.shields.io/badge/Miễn_trừ_và_giới_hạn_trách_nhiệm-0000ff)
-
- - Sản phẩm được cấp theo dạng “nguyên trạng”. Chủ sở hữu không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên hoặc hệ quả phát sinh từ việc sử dụng hoặc không thể sử dụng công cụ.
-
-![](https://img.shields.io/badge/Chấm_dứt-0000ff)
-
- - Mọi quyền theo Giấy phép này sẽ chấm dứt tự động nếu người nhận vi phạm bất kỳ điều khoản nào. Sau khi chấm dứt, người nhận phải ngừng mọi truy cập và ngừng trỏ link tới server để lấy công cụ nếu chủ sở hữu yêu cầu.
-
-![](https://img.shields.io/badge/Luật_áp_dụng-0000ff)
-
- - Giấy phép này được điều chỉnh bởi pháp luật hiện hành của quốc gia nơi chủ sở hữu đặt trụ sở. Mọi tranh chấp sẽ được giải quyết theo pháp luật đó.
-
-## Mô tả lúc nhóm làm script
+## Mô tả lúc nhóm làm việc
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmNueXJlMDFzcGtpNWoyOWlmbjhvdW1rMXdnY3g3cTI4NXE5MTJuayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WD01fV9KSg4Vw3DYWc/giphy.gif" width="200"/>
