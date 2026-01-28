@@ -34,7 +34,7 @@
 
  - 𝙋𝙮𝙈𝙖𝙆𝙖𝙞𝙯𝙪: Phiên bản đầu tiên và mạnh nhất chính vì quá mạnh lên dễ bị lạm dụng đã ngừng phát hành. 
 
- - 𝙋𝙮𝙎𝙝𝙖𝘿𝙤𝙬: Phiên bản thứ hai bị dừng do kiểm soát môi trường quá gắt đồng thời gây khó.
+ - 𝙋𝙮𝙎𝙝𝙖𝘿𝙤𝙬: Phiên bản thứ hai bị dừng do kiểm soát môi trường quá gắt đồng thời gây khó khăn khi chia sẻ công cụ.
 
  - 𝙋𝙮𝙑𝙖𝙧𝙇𝙞𝙜𝙝𝙩: Đang trong thời gian phát triển
 
